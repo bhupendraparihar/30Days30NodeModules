@@ -1,0 +1,23 @@
+{
+  "name": "30Days30NodeModules",
+  "version": "1.0.0",
+  "description": "An attempt to know about most famous node modules",
+  "main": "aysnc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhupendraparihar/30Days30NodeModules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhupendraparihar/30Days30NodeModules/issues"
+  },
+  "homepage": "https://github.com/bhupendraparihar/30Days30NodeModules#readme",
+  "dependencies": {
+    "async": "^2.6.0"
+  }
+}
