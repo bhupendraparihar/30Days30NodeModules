@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/bhupendraparihar/30Days30NodeModules/issues"
   },
-  "homepage": "https://github.com/bhupendraparihar/30Days30NodeModules#readme",
-  "dependencies": {
-    "async": "^2.6.0"
-  }
+  "homepage": "https://github.com/bhupendraparihar/30Days30NodeModules#readme"
 }
