@@ -3,6 +3,7 @@
  * npm install socket.io --save
  * node index.js
  * open http://localhost:3000 in two browsers and enjoy the chat
+ * Reference : https://socket.io/get-started/chat/
  */
 
 var express = require('express');
